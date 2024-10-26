@@ -40,6 +40,11 @@ ROI Selection: Masks the road area using a trapezoidal region.
 Line Detection: Detects lane lines using Hough Transform.
 Extrapolation: Averages detected lines to form continuous lane boundaries.
 
+## Output
+
+<!--Embed the Output picture at respective places as shown below as shown below-->
+![image](https://github.com/user-attachments/assets/b5a7309e-f76f-423a-90df-dad3e88b911e)
+
 
 
 ## Results and Impact
