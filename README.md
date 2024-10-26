@@ -42,18 +42,6 @@ Extrapolation: Averages detected lines to form continuous lane boundaries.
 
 
 
-## Output
-
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
-![Picture2](https://github.com/user-attachments/assets/0df7441a-20a6-4c11-99cc-b784e0d533a2)
-
-
-#### Output2 - Name of the output
-![Picture3](https://github.com/user-attachments/assets/b54a017e-5572-439c-8e2c-f140a4b39504)
-
-
-
 ## Results and Impact
 <!--Give the results and impact as shown below-->
 Output Type: Visual overlay of detected lane lines on the original video or image.
